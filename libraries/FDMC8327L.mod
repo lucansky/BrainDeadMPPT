@@ -1,0 +1,143 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+MLP8L33
+$EndINDEX
+$MODULE MLP8L33
+Po 0 0 0 15 00000000 00000000 ~~
+Li MLP8L33
+Cd <h3>MLP 3.3x3.3 8L (Power 33) - 8LD, MLP, NON JEDEC VERSION, MICROFET, 3.3MM SQUARE</h3><ul>   <li><a href="http://www.fairchildsemi.com/package/packageDetails.html?id=PN_MLOEU-008">Package web page</a></li></ul>
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.0509229 -2.18026 0.481205 0.481205 0 0.05 N V 21 "MLP8L33"
+T1 0.154249 2.20376 0.480776 0.480776 0 0.05 N V 21 "VAL**"
+DS -1.45 -1.65 -1.3 -1.65 0.1016 21
+DS -1.3 -1.65 1.3 -1.65 0.1016 24
+DS 1.3 -1.65 1.45 -1.65 0.1016 21
+DS 1.45 -1.65 1.45 -0.3625 0.1016 21
+DS 1.45 -0.3625 1.45 0.375 0.1016 24
+DS 1.45 0.3625 1.45 1.65 0.1016 21
+DS 1.45 1.65 1.3 1.65 0.1016 21
+DS 1.3 1.65 -1.3 1.65 0.1016 24
+DS -1.3 1.65 -1.45 1.65 0.1016 21
+DS -1.45 1.65 -1.45 0.3625 0.1016 21
+DS -1.45 0.3625 -1.45 -0.3625 0.1016 24
+DS -1.45 -0.3625 -1.45 -1.65 0.1016 21
+DC -1.2 1.075 -1.075 1.075 0 21
+DP 0 0 0 0 4 0 24
+Dl -1.13944 -1.725
+Dl -0.8125 -1.725
+Dl -0.8125 -1.27718
+Dl -1.13944 -1.27718
+DP 0 0 0 0 4 0 24
+Dl -0.488993 -1.725
+Dl -0.1625 -1.725
+Dl -0.1625 -1.27891
+Dl -0.488993 -1.27891
+DP 0 0 0 0 4 0 24
+Dl 0.163082 -1.725
+Dl 0.4875 -1.725
+Dl 0.4875 -1.27957
+Dl 0.163082 -1.27957
+DP 0 0 0 0 4 0 24
+Dl 0.814114 -1.725
+Dl 1.1375 -1.725
+Dl 1.1375 -1.27753
+Dl 0.814114 -1.27753
+DP 0 0 0 0 4 0 24
+Dl 0.814111 1.275
+Dl 1.1375 1.275
+Dl 1.1375 1.72842
+Dl 0.814111 1.72842
+DP 0 0 0 0 4 0 24
+Dl 0.162744 1.275
+Dl 0.4875 1.275
+Dl 0.4875 1.72759
+Dl 0.162744 1.72759
+DP 0 0 0 0 4 0 24
+Dl -0.48849 1.275
+Dl -0.1625 1.275
+Dl -0.1625 1.7285
+Dl -0.48849 1.7285
+DP 0 0 0 0 4 0 24
+Dl -1.14041 1.275
+Dl -0.8125 1.275
+Dl -0.8125 1.72941
+Dl -1.14041 1.72941
+$PAD
+Sh "1" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.975 1.4
+$EndPAD
+$PAD
+Sh "2" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.325 1.4
+$EndPAD
+$PAD
+Sh "3" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.325 1.4
+$EndPAD
+$PAD
+Sh "4" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.975 1.4
+$EndPAD
+$PAD
+Sh "5" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.975 -1.4
+$EndPAD
+$PAD
+Sh "6" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.325 -1.4
+$EndPAD
+$PAD
+Sh "7" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.325 -1.4
+$EndPAD
+$PAD
+Sh "8" R 0.42 0.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.975 -1.4
+$EndPAD
+$PAD
+Sh "F1" R 2.37 1.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -0.45
+$EndPAD
+$EndMODULE MLP8L33

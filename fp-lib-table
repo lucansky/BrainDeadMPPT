@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name libraries)(type KiCad)(uri ${KIPRJMOD}/libraries.pretty)(options "")(descr ""))
+  (lib (name con-wago_2604)(type Legacy)(uri ${KIPRJMOD}/libraries/con-wago_2604.mod)(options "")(descr ""))
+  (lib (name FDMC8327L)(type Legacy)(uri ${KIPRJMOD}/libraries/FDMC8327L.mod)(options "")(descr ""))
+  (lib (name XAL1010-103ME)(type Legacy)(uri ${KIPRJMOD}/libraries/XAL1010-103ME.mod)(options "")(descr ""))
+  (lib (name DFN160X100X57-2N)(type Legacy)(uri ${KIPRJMOD}/libraries/DFN160X100X57-2N.mod)(options "")(descr ""))
+  (lib (name FDMC8030)(type Legacy)(uri ${KIPRJMOD}/libraries/FDMC8030.mod)(options "")(descr ""))
+  (lib (name SI7611DN-T1-GE3)(type Legacy)(uri ${KIPRJMOD}/libraries/SI7611DN-T1-GE3.mod)(options "")(descr ""))
+)
