@@ -16,8 +16,14 @@ Is 4-layer PCB containing [LTC4015](http://www.analog.com/media/en/technical-doc
 
 ## Status
 * 15.8.2018: Ready for PCB production (prototype)
+* 16.8.2018: In production 2x [gatema.cz](https://www.gatema.cz/plosne-spoje)
 
 ## Render
 
 ![mppt charger](https://github.com/lucansky/BrainDeadMPPT/blob/master/images/mppt16.png)
 ![mppt charger](https://github.com/lucansky/BrainDeadMPPT/blob/master/images/mppt17.png)
+
+## Contact
+Adam Lučanský <adamlucansky@gmail.com>
+
+irc: #base48 with nick Adluc @ freenode.net
